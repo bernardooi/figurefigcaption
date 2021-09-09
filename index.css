@@ -9,18 +9,15 @@ header
     width: 100%;
     border: 2px solid black;
 }
-
-
 h1
 {
     text-align: center;
     font-size: 350%;
 }
-
 .bild
 {
-    width:25em;
-    height: 20em;
+    width: 100%;
+    height: 100%;
     margin:0 auto;
     float:left;
     border-radius: 15%;   
@@ -28,16 +25,14 @@ h1
 figcaption
 {
     text-align: center;
-display: inline;
+    display: inline;
 }
-
 .textrutor
 {
     border-radius: 15%;
-    width: 25em;
+    width: 20%;
     height: 20em;
-    margin-left: 5%;
-    margin-right:6.8%;
+    margin-right:10%;
     margin-bottom: 5%;
     float: right;
     border: 1px solid black;
